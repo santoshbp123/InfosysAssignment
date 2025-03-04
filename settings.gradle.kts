@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "InfosyaAssignment"
+rootProject.name = "InfosysAssignment"
 include(":app")
  
